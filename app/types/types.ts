@@ -7,3 +7,8 @@ export interface SectionProps {
     description: string;
     children?: ReactNode;
   }
+
+ export interface SocialLink {
+    name: string;
+    url: string;
+  }
