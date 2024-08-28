@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Header() {
   return (
-    <header className="flex justify-around mx-auto mt-10 items-center p-4 text-white">
+      <header className="flex justify-around mx-auto mt-20  items-center p-4 text-white">
       <div className="text-[#A3A3A3] hover:text-neutral-100">
         <a href="mailto:mhuzaifarauf13@gmail.com">mhuzaifarauf13@gmail.com</a>
       </div>

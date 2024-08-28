@@ -12,7 +12,9 @@ const config: Config = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-          // 'custom-gradient': 'linear-gradient(90deg, #0A0A0A, #F97316)',
+      },
+      colors: {
+        customPurple: '#0A0A0A', 
       },
     },
   },
